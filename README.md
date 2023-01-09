@@ -75,4 +75,6 @@ Si quieres que tu establecimiento esté en el mapa, agrega los datos en esta pá
 
 # Contacto
 
-Puedes contactarnos en: [Telegram](https://t.me/MaptimeBogota)
+Puedes contactarnos en: [Telegram](https://t.me/MaptimeBogota).
+
+Nuestros eventos virtuales los transmitimos por: [OSM Video - BigBlueButton](https://osmvideo.cloud68.co/user/and-ljb-pb2-ajn).
