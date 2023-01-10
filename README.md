@@ -68,6 +68,10 @@ Varios de nuestros proyectos están asociados con desarrollo de software, los cu
   * Modelo de importación de edificios del IGAC en OSM pasando por QGIS.
   * Ejemplos de mapeo de ciclovía.
   * Generación de imagery a partir de vuelo de drones.
+  
+# Visualizador
+
+* [Restricciones de giro](https://maptimebogota.github.io/restriction-validator)
 
 # Agrega tu negocio
 
