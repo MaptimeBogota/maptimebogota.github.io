@@ -10,7 +10,7 @@ Como parte de mejorar el mapa se incluye:
 
 Además, fuera de Bogotá apoyamos en Colombia y Latinoamérica:
 
-* Ajustando la división política de Colombia
+* Ajustando la división política de Colombia.
 * Cerrando notas.
 
 # Historia
@@ -26,6 +26,7 @@ Después pasamos a organizar eventos virtuales, y organizamos muchos durante 202
 
 Agradecemos a las siguientes personas por fortalecer este grupo:
 
+* [Andres Gomez](https://wiki.openstreetmap.org/wiki/User:Angoca).
 * Rafael Istúriz.
 * Juan Carlos Melo.
 * Doris Carmiña Ruiz.
@@ -42,17 +43,17 @@ Nuestros principales recursos en Internet están listados en:
 Hacemos varios eventos al año, los cuales los publicamos en:
 
 * [MeetUp](https://www.meetup.com/maptime-bogota-colombia-osm/?_cookie-check=rK6KMpbK-uIGAioq)
-* 
+* [Kommunity](https://kommunity.com/maptime-bogota-colombia-osm/events/past)
 
 ## Redes sociales
 
 Tenemos presencia en las siguientes redes sociales. Síguenos, dale like y comparte nuestras publicaciones para llegar a más personas.
 
-* [Twitter](https://twitter.com/MaptimeBogota)
 * [Instagram](https://www.instagram.com/maptimebogota/)
+* [Twitter](https://twitter.com/MaptimeBogota)
 * [Mastodon](https://en.osm.town/@MaptimeBogota)
 * [Pinterest](https://co.pinterest.com/maptimeBogota/)
-* [YouTube](
+* [YouTube](https://www.youtube.com/@maptimebogota)
 * [TikTok](https://www.tiktok.com/@maptimebogota)
 
 # Proyectos
@@ -69,13 +70,11 @@ Varios de nuestros proyectos están asociados con desarrollo de software, los cu
   * Ejemplos de mapeo de ciclovía.
   * Generación de imagery a partir de vuelo de drones.
   
-# Visualizador
+# Servicios publicados
 
-* [Restricciones de giro](https://maptimebogota.github.io/restriction-validator)
-
-# Agrega tu negocio
-
-Si quieres que tu establecimiento esté en el mapa, agrega los datos en esta página y nosotros haremos la modificación en el mapa por ti: https://maptimebogota.github.io/minegocio/
+* [Aprende Overpass - LearnOverpass](https://maptimebogota.github.io/learnoverpass//es/).
+* [Restricciones de giro](https://maptimebogota.github.io/restriction-validator).
+* Si quieres que tu establecimiento esté en el mapa, agrega los datos en esta página y nosotros haremos la modificación en el mapa por ti: https://maptimebogota.github.io/minegocio/
 
 # Contacto
 
